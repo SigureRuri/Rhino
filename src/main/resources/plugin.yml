@@ -1,0 +1,7 @@
+name: Rhino
+version: '${version}'
+main: com.github.sigureruri.rhino.Rhino
+api-version: 1.17
+authors: [ SigureRuri ]
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:1.5.21
