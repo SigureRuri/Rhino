@@ -1,5 +1,5 @@
 name: Rhino
-version: '${version}'
+version: '@version@'
 main: com.github.sigureruri.rhino.Rhino
 api-version: 1.17
 authors: [ SigureRuri ]
