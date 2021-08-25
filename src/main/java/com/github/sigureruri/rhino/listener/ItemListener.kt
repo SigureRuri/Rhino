@@ -1,9 +1,7 @@
 package com.github.sigureruri.rhino.listener
 
-import com.github.sigureruri.rhino.Rhino
 import com.github.sigureruri.rhino.event.TickEvent
 import com.github.sigureruri.rhino.item.RhinoItem
-import com.github.sigureruri.rhino.item.RhinoItemId
 import com.github.sigureruri.rhino.util.Hand
 import com.github.sigureruri.rhino.util.ItemHelper
 import org.bukkit.Bukkit
@@ -28,7 +26,6 @@ import org.bukkit.event.player.PlayerInteractEvent
 import org.bukkit.event.player.PlayerSwapHandItemsEvent
 import org.bukkit.inventory.EquipmentSlot
 import org.bukkit.inventory.InventoryHolder
-import org.bukkit.inventory.ItemStack
 
 class ItemListener : Listener {
 
